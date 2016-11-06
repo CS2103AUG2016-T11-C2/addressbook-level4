@@ -1,5 +1,6 @@
 # User Guide
 
+<!-- @@author A0139211R -->
 * [Quick Start](#quick-start)
 * [Features](#features)
    * [Adding a Task: `add`](#adding-a-task-add)
@@ -20,6 +21,7 @@
 * [Frequently asked questions](#frequently-asked-questions)
 * [Command Summary](#command-summary)
 * [Keyboard Shortcuts](#keyboard-shortcuts)
+<!-- @@author -->
 
 <!-- @@author A0139671X -->
 ## Quick Start
@@ -309,6 +311,7 @@ Format: `exit`
 ForgetMeNot data are saved in the hard disk automatically after any command that changes the data.<br>
 There is no need to save manually.
 
+<!-- @@author A0139211R -->
 ## Frequently asked questions 
 Q: How many times am I able to undo a previous command? <br>
 A: You are able to undo any number of times up till the state where you first opened ForgetMeNot!
@@ -323,6 +326,7 @@ Q: How do I edit recurring tasks? Do all of them change if I edit one single ins
 A: No, only the selected instance gets edited. Our design philosophy is that recurring tasks should be treated as 
    separate instances so that the other recurring tasks would not be affected if you were to make changes to one of 
    them due to some circumstances.
+<!-- @@author -->
 
 ## Command Summary
 
